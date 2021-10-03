@@ -25,7 +25,6 @@ Skills:  JS / HTML / CSS/ Python / Pandas / Numpy /
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kashaf874&show_icons=true)  
 
 
-![GitHub metrics](https://metrics.lecoq.io/kashaf874)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kashaf874)  
 
@@ -33,4 +32,3 @@ Skills:  JS / HTML / CSS/ Python / Pandas / Numpy /
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kashaf874)](https://github.com/ryo-ma/github-profile-trophy)
