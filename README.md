@@ -24,7 +24,6 @@ Skills:  JS / HTML / CSS/ Python / Pandas / Numpy /
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kashaf874&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kashaf874)  
 
 ![GitHub metrics](https://metrics.lecoq.io/kashaf874)  
 
