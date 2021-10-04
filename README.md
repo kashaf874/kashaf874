@@ -17,20 +17,20 @@
 
 
 
-## Skills:
-
-- 😎 Html
-- 😋 CSS
-- 😉 JS
-- 🥰 Graphic Designing
-- 💻 Python
-- 🔠 Pandas
-- 🍻 Numpy
-- 📊 Plotly
-- 📉 Sklearn
-- 📈 Seaborn
-- 🛠  Machine Learning
-- 🧬 Bioinformatica Tools
+## Skills:  |
+-------------------|----------------
+- 😎 Html | 🍻 Numpy
+- 😋 CSS | 📊 Plotly
+- 😉 JS |📉 Sklearn
+- 🥰 Graphic Designing|📈 Seaborn
+- 💻 Python |🛠  Machine Learning
+- 🔠 Pandas |🧬 Bioinformatica Tools
+-
+- 
+- 
+- 
+- 
+- 
 
 # Contact me on Social Media
 
