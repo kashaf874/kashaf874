@@ -18,7 +18,8 @@
 
 
 
-## Skills & languagws
+## Skills & languages
+<br>
  👨‍⚕️  |   👩‍⚕️
 -------------------|----------------
  😎 Html | 🍻 Numpy
