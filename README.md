@@ -1,20 +1,34 @@
 ![Design, Development and Data Scientist](https://media-exp1.licdn.com/dms/image/C4D16AQEEeNG_bsWjVw/profile-displaybackgroundimage-shrink_350_1400/0/1631340893358?e=1639008000&v=beta&t=XENTgCneZwLyK46Z65AtjgOJt_JTmLg7i5qKnwiUFiE)
 
-### Hi there 👋, I'm Kashaf naz
-#### Design, Development and Data Scientist 
+# Hi there 👋, I'm Kashaf naz
+## Talk about Design, Development and Data Scientist 
 
-- 🔭 I’m currently working on at Devnation 
+- 🔭 I’m currently working on ML
 - 🌱 I’m currently learning Data Science 
 - 👯 I’m looking to collaborate on Data Science ML 
 - 💬 Ask me about Learning and Development 
 - 📫 How to reach me: kashafnaz510@gmail.com 
 - 😄 Pronouns: ka-sha-af 
-- ⚡ Fun fact: I'm learner 
+- ⚡ Fun fact: I'm a learner 
 
 
 
-Skills:  JS / HTML / CSS/ Python / Pandas / Numpy /
+# Skills:
 
+- Html
+- CSS
+- JS
+- Graphic Designing
+- Python
+- Pandas
+- Numpy
+- Plotly
+- Sklearn
+- Seaborn
+- Machine Learning
+- Bioinformatica Tools
+
+# Contact me on Social Media:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kashaf874)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/kashaf874)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/kashaf.naz.733/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/kashafnazofficial//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/FROZEN53300196)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Kashaf_Naz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kashaf-portfolio.netlify.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@Kashaf_Naz)  
 
