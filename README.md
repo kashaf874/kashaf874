@@ -1,6 +1,6 @@
 ![Design, Development and Data Scientist](https://media-exp1.licdn.com/dms/image/C4D16AQEEeNG_bsWjVw/profile-displaybackgroundimage-shrink_350_1400/0/1631340893358?e=1639008000&v=beta&t=XENTgCneZwLyK46Z65AtjgOJt_JTmLg7i5qKnwiUFiE)
 
-### Hi there 👋, Kashaf naz
+### Hi there 👋, I'm Kashaf naz
 #### Design, Development and Data Scientist 
 
 - 🔭 I’m currently working on at Devnation 
