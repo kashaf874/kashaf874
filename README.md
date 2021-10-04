@@ -1,9 +1,9 @@
 ![Design, Development and Data Scientist](https://media-exp1.licdn.com/dms/image/C4D16AQEEeNG_bsWjVw/profile-displaybackgroundimage-shrink_350_1400/0/1631340893358?e=1639008000&v=beta&t=XENTgCneZwLyK46Z65AtjgOJt_JTmLg7i5qKnwiUFiE)
 
 # Hi there 👋, I'm Kashaf naz
-## Talk about Design, Development and Data Scientist 
+## Talk about Design, Development, Bioinformatics and Data Scientist 
 
-- 🔭 I’m currently working on ML
+- 🔭 I’m currently working on ML/Bioinformatics
 - 🌱 I’m currently learning Data Science 
 - 👯 I’m looking to collaborate on Data Science ML 
 - 💬 Ask me about Learning and Development 
