@@ -21,14 +21,15 @@
 ## Skills & languages
 
 
- 👨‍⚕️  |   👩‍⚕️
--------------------|----------------
- 😎 Html | 🍻 Numpy
- 😋 CSS | 📊 Plotly
- 😉 JS |📉 Sklearn
- 🥰 Graphic Designing|📈 Seaborn
- 💻 Python |🛠  Machine Learning
- 🔠 Pandas |🧬 Bioinformatica Tools
+🌐 Web  |   📅 Data Science    | 👩‍🔬 BioInformatics    | 🥰 Graphic Designing
+-----|------------------------|------------------------
+ 😎 Html | 🍻 Numpy          | 🧬 Blast               |-
+ 😋 CSS  | 📊 Plotly         | 🧬 BioPython            |-     
+ 😉 JS   |📉 Sklearn         | 🧬 BioConda            |-
+    -    |📈 Seaborn         | 🧬 Mega               |-
+    -    |🛠  Machine Learning| 🧬 Pymol             |  -
+    -    |💻 Python            |🧬                    |-
+    -    | 🔠 Pandas |
  
 
 # Contact me on Social Media
