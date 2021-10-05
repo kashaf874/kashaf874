@@ -23,13 +23,13 @@
 
 🌐 Web  |   📅 Data Science    | 👩‍🔬 BioInformatics    | 🥰 Graphic Designing
 -----|------------------------|------------------------|
- 😎 Html | 🍻 Numpy          | 🧬 Blast               |-
- 😋 CSS  | 📊 Plotly         | 🧬 BioPython            |-     
- 😉 JS   |📉 Sklearn         | 🧬 BioConda            |-
-    -    |📈 Seaborn         | 🧬 Mega               |-
-    -    |🛠  Machine Learning| 🧬 Pymol             |  -
-    -    |💻 Python            |🧬                    |-
-    -    | 🔠 Pandas |
+ 😎 Html | 🍻 Numpy          | 🧬 Blast               |❗
+ 😋 CSS  | 📊 Plotly         | 🧬 BioPython            |❗    
+ 😉 JS   |📉 Sklearn         | 🧬 BioConda            |❗
+    -    |📈 Seaborn         | 🧬 Mega               |❗
+    -    |🛠  Machine Learning| 🧬 Pymol             |  ❗
+    -    |💻 Python            |🧬                    |❗
+    -    | 🔠 Pandas           |                       |❗
  
 
 # Contact me on Social Media
