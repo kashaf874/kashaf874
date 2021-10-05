@@ -26,10 +26,12 @@
  😎 Html | 🍻 Numpy          | 🧬 Blast               |❗
  😋 CSS  | 📊 Plotly         | 🧬 BioPython            |❗    
  😉 JS   |📉 Sklearn         | 🧬 BioConda            |❗
-    -    |📈 Seaborn         | 🧬 Mega               |❗
-    -    |🛠  Machine Learning| 🧬 Pymol             |  ❗
-    -    |💻 Python            |🧬                    |❗
-    -    | 🔠 Pandas           |                       |❗
+ 👍 PHP   |📈 Seaborn         | 🧬 Mega               |❗
+    ❗    |🛠  Machine Learning| 🧬 Pymol             |  ❗
+    ❗    |💻 Python            |🧬                    |❗
+    ❗ | 🔠 Pandas           | ❗                      |❗
+    ❗ | � SQL           | ❗                      |❗
+
  
 
 # Contact me on Social Media
