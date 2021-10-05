@@ -21,16 +21,16 @@
 ## Skills & languages
 
 
-🌐 Web  |   📅 Data Science    | 👩‍🔬 BioInformatics    | 🥰 Graphic Designing
------|------------------------|------------------------|-------------
- 😎 Html | 🍻 Numpy          | 🧬 Blast               |❗
- 😋 CSS  | 📊 Plotly         | 🧬 BioPython            |❗    
- 😉 JS   |📉 Sklearn         | 🧬 BioConda            |❗
- 👍 PHP   |📈 Seaborn         | 🧬 Mega               |❗
-    ❗    |🛠  Machine Learning| 🧬 Pymol               | ❗
-    ❗    |💻 Python           |🧬    BIO                 |❗
-    ❗    | 🔠 Pandas           | 🧬     BIO               |❗
-    ❗   | � SQL               | 🧬         BIO           |❗
+🌐 Web  |   📅 Data Science    | 👩‍🔬 BioInformatics    | 🥰 Graphic Designing      
+-----|------------------------|------------------------|---------------------------
+ 😎 Html   | 🍻 Numpy          | 🧬 Blast               |❗
+ 😋 CSS    | 📊 Plotly         | 🧬 BioPython            |❗    
+ 😉 JS     |📉 Sklearn         | 🧬 BioConda            |❗
+ 👍 PHP    |📈 Seaborn         | 🧬 Mega               |❗
+ 🙌 Bootstrap |🛠 Machine Learning| 🧬 Pymol       | ❗
+ 💥 WordPress |💻 Python          |🧬    BIO        |❗
+ ✌ SEO       | 🔠 Pandas          | 🧬     BIO         |❗
+ 📝Blog Writing | � SQL               | 🧬         BIO           |❗
 
  
 
