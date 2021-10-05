@@ -5,7 +5,7 @@
 ![Profile views](https://gpvc.arturio.dev/kashaf874)  
 
 
-## Talk about Design, Development, Bioinformatics and Data Scientist 
+## Talk about Design, Development, Bioinformatics and Data Science
 
 
 - 🔭 I’m currently working on ML/Bioinformatics
