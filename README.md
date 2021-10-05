@@ -27,10 +27,10 @@
  😋 CSS  | 📊 Plotly         | 🧬 BioPython            |❗    
  😉 JS   |📉 Sklearn         | 🧬 BioConda            |❗
  👍 PHP   |📈 Seaborn         | 🧬 Mega               |❗
-    ❗    |🛠  Machine Learning| 🧬 Pymol             |  ❗
-    ❗    |💻 Python            |🧬                    |❗
-    ❗ | 🔠 Pandas           | ❗                      |❗
-    ❗ | � SQL           | ❗                      |❗
+    ❗    |🛠  Machine Learning| 🧬 Pymol               | ❗
+    ❗    |💻 Python           |🧬    BIO                 |❗
+    ❗    | 🔠 Pandas           | 🧬     BIO               |❗
+    ❗   | � SQL               | 🧬         BIO           |❗
 
  
 
