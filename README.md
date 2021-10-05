@@ -22,7 +22,7 @@
 
 
 🌐 Web  |   📅 Data Science    | 👩‍🔬 BioInformatics    | 🥰 Graphic Designing
------|------------------------|------------------------
+-----|------------------------|------------------------|
  😎 Html | 🍻 Numpy          | 🧬 Blast               |-
  😋 CSS  | 📊 Plotly         | 🧬 BioPython            |-     
  😉 JS   |📉 Sklearn         | 🧬 BioConda            |-
