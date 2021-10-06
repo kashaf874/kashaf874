@@ -25,7 +25,7 @@
 -----|------------------------|------------------------|---------------------------
  😎 Html   | 🍻 Numpy          | 🧬 Blast               |🖌 Adobe Illustrator
  😋 CSS    | 📊 Plotly         | 🧬 BioPython            | 📽 CapCut   
- 😉 JS     |📉 Sklearn         | 🧬 BioConda            |❗ 🎨 Canva
+ 😉 JS     |📉 Sklearn         | 🧬 BioConda            | 🎨 Canva
  👍 PHP    |📈 Seaborn         | 🧬 Mega               |❗
  🙌 Bootstrap |🛠 Machine Learning| 🧬 Pymol       | ❗
  💥 WordPress |💻 Python          |🧬    BIO        |❗
