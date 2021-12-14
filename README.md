@@ -1,6 +1,6 @@
 # Hi there 👋, I'm [Kashaf naz](https://kashafs-portfolio.webflow.io/)
 
-![Design, Development and Data Scientist](https://www.linkedin.com/in/kashafnaz/overlay/background-image/)
+[Design, Development and Data Scientist](https://www.linkedin.com/in/kashafnaz/overlay/background-image/)
 
 ![Profile views](https://gpvc.arturio.dev/kashaf874)  
 
