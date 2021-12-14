@@ -1,6 +1,6 @@
 # Hi there 👋, I'm [Kashaf naz](https://kashafs-portfolio.webflow.io/)
 
-![Design, Development and Data Scientist](https://media-exp1.licdn.com/dms/image/C4D16AQEEeNG_bsWjVw/profile-displaybackgroundimage-shrink_350_1400/0/1631340893358?e=1639008000&v=beta&t=XENTgCneZwLyK46Z65AtjgOJt_JTmLg7i5qKnwiUFiE)
+![Design, Development and Data Scientist]file:///D:/downloads/WhatsApp%20Image%202021-09-11%20at%203.47.34%20AM.jpeg)
 
 ![Profile views](https://gpvc.arturio.dev/kashaf874)  
 
