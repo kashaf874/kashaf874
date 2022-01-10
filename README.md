@@ -31,7 +31,7 @@
  🙌 Bootstrap |🛠 Machine Learning| 🧬 Pymol       | ❗
  💥 WordPress |💻 Python          |🧬    BIO        |❗
  ✌ SEO       | 🔠 Pandas          | 🧬     BIO         |❗
- 📝Blog Writing | � SQL               | 🧬         BIO           |❗
+ 📝Blog Writing | � SQL               | 🧬         BIO           |🖌
 
  
 
