@@ -1,6 +1,6 @@
 # Hi there 👋, I'm [Kashaf naz](https://kashafs-portfolio.webflow.io/)
 
-![Data Scientist](https://www.linkedin.com/in/kashafnaz/overlay/background-image/)
+![Data Scientist](file:///C:/Users/Hp/OneDrive/Pictures/Camera%20Roll/beck_dp.jfif)
 
 
 ![Profile views](https://gpvc.arturio.dev/kashaf874) 
