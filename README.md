@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Kashaf naz](https://kashafs-portfolio.webflow.io/)
+# Hi there 👋, I'm [Kashaf Naz](https://kashafs-portfolio.webflow.io/)
 
 ![Data Scientist](https://media-exp1.licdn.com/dms/image/C4D16AQEEeNG_bsWjVw/profile-displaybackgroundimage-shrink_350_1400/0/1631340893358?e=1651708800&v=beta&t=ecS6F0q0x8aAKIIlYGi8lCmIAAUn3cNJnvAW6o_x-c8)
 
