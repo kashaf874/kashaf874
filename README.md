@@ -1,6 +1,6 @@
 # Hi there 👋, I'm [Kashaf Naz](https://kashafs-portfolio.webflow.io/)
 
-![Data Scientist](file:///C:/Users/Hp/OneDrive/Documents/1631340893358.jpg)
+![Data Scientist](![image](https://user-images.githubusercontent.com/54352225/167370123-a71db3f9-a51e-4e8d-95d4-a14b3130c57e.png))
 
 
 ![Profile views](https://gpvc.arturio.dev/kashaf874) 
