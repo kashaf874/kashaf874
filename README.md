@@ -1,6 +1,6 @@
 # Hi there 👋, I'm [Kashaf Naz](https://kashafs-portfolio.webflow.io/)
 
-![image](https://user-images.githubusercontent.com/54352225/167370123-a71db3f9-a51e-4e8d-95d4-a14b3130c57e.png)
+![image](https://media-exp1.licdn.com/dms/image/D4D16AQHIk83Xq7oAng/profile-displaybackgroundimage-shrink_350_1400/0/1664621307217?e=1669852800&v=beta&t=YjJSmzkqH7JwtnIDsI5PvqBLIyeGqQl1j8Z7r_cyOvc)
 
 
 ![Profile views](https://gpvc.arturio.dev/kashaf874) 
