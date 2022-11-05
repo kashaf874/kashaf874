@@ -66,8 +66,7 @@
 ## Most Used Langues
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashaf874&show_icons=true&theme=radical)](https://github.com/kashaf874/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashaf874&show_icons=true&theme=radical)](https://github.com/kashaf874/github-readme-stats)
+
 
 
 ## GitHub Streak🔥
