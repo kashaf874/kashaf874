@@ -42,27 +42,27 @@
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" width="3%"/>
     </a>
     <img width="3%" />
-    <a href="https://www.linkedin.com/company/ultralytics">
+    <a href="https://www.linkedin.com/in/kashafnaz/">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-linkedin.png" width="3%"/>
     </a>
     <img width="3%" />
-    <a href="https://twitter.com/ultralytics">
+    <a href="https://twitter.com/FROZEN53300196">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-twitter.png" width="3%"/>
     </a>
     <img width="3%" />
-    <a href="https://www.producthunt.com/@glenn_jocher">
-    <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-producthunt.png" width="3%"/>
+    <a href="https://www.hackerrank.com/kashafnaz510">
+    <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-hackerrank.png" width="3%"/>
     </a>
     <img width="3%" />
-    <a href="https://youtube.com/ultralytics">
+    <a href="https://www.youtube.com/channel/UC3w9n1m1xe9DV1p9Q4GOTcQ/">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-youtube.png" width="3%"/>
     </a>
     <img width="3%" />
-    <a href="https://www.facebook.com/ultralytics">
+    <a href="https://www.facebook.com/kashaf.naz.733/">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-facebook.png" width="3%"/>
     </a>
     <img width="3%" />
-    <a href="https://www.instagram.com/ultralytics/">
+    <a href="https://www.instagram.com/">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-instagram.png" width="3%"/>
     </a>
 </div>
