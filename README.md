@@ -71,7 +71,7 @@
 
 ## Most Used Langues
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashaf874)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashaf874)](https://github.com/kashaf874/github-readme-stats)
 
 
 
@@ -85,5 +85,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kashaf874&show_icons=true&theme=radical)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kashaf874&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kashaf874&repo=github-readme-stats)](https://github.com/kashaf874/github-readme-stats)
 
