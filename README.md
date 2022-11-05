@@ -37,10 +37,12 @@
 
 # Contact me on Social Media
 
+<a href="https://medium.com/@Kashaf_Naz/">
+     <img scr= "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+ </a>
+
 <div align="center">
-    <a href="https://medium.com/@Kashaf_Naz/">
-     <img scr= "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-    </a>
+    
     <a href="https://github.com/kashaf874">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" width="3%"/>
     </a>
