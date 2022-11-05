@@ -84,6 +84,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kashaf874&show_icons=true&theme=radical)
 
-<a href = "https://github.com/kashaf874/github-readme-stats">
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=kashaf874&repo=github-readme-stats"/>
- </a>
+
