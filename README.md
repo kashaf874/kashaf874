@@ -22,12 +22,12 @@
 ## Skills & languages
 
 
-|🌐 Web            |   📅 Data Science      | 👩‍🔬 BioInformatics    | 🥰 Designing          |
-|:-----------------|:------------------------|:---------------------|:---------------------- |
-|😎 Html          | 🍻 Numpy                | 🧬 Blast             |🖌 Adobe Illustrator    |
+|🌐 Web            |   📅 Data Science      | 👩‍🔬 BioInformatics    | 🥰 Designing          | 🏫 certified |
+|:-----------------|:------------------------|:---------------------|:---------------------- |:-------------|
+|😎 Html          | 🍻 Numpy                | 🧬 Blast             |🖌 Adobe Illustrator    | Data Camp    |
 |😋 CSS           | 📊 Plotly               | 🧬 BioPython         | 📽 CapCut               |
 |😉 JS            |📉 Sklearn               | 🧬 BioConda          | 🎨 Canva               |
-| 👍 PHP          |📈 Seaborn               | 🧬 Mega              |❗                       |
+| 👍 PHP          |📈 Seaborn               | 🧬 Mega              |       Visualization    |
 |🙌 Bootstrap     |🛠 Machine Learning      | 🧬 Pymol             | ❗                    |
 |💥 WordPress     |💻 Python                |🧬    BIO             |❗                     |
 |✌ SEO            | 🔠 Pandas               | 🧬     BIO          |❗                     |
