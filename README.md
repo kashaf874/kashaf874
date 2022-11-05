@@ -58,8 +58,6 @@
 <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=ffffff"></a>
 <a href="https://m.me/kashaf.naz.733/">
 <img src="https://img.shields.io/badge/Chat-1877F2?style=flat-square&logo=Messenger&logoColor=ffffff"></a>
-<a href="https://wa.me/923039711660?text=%23Github">
-<img src="https://img.shields.io/badge/Chat-25D366?style=flat-square&logo=WhatsApp&logoColor=ffffff"></a>
 
 </div>
 
