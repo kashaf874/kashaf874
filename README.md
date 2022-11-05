@@ -35,44 +35,35 @@
 
  
 
-# Contact me on Social Media
-
-<a href="https://medium.com/@Kashaf_Naz/">
-     <img scr= "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
- </a>
-
+# Contact me on Social Media 🔥
 <div align="center">
-    
-    <a href="https://github.com/kashaf874">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" width="3%"/>
-    </a>
-    <img width="3%" />
-    <a href="https://www.linkedin.com/in/kashafnaz/">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-linkedin.png" width="3%"/>
-    </a>
-    <img width="3%" />
-    <a href="https://twitter.com/FROZEN53300196">
-        <img src="https://img.shields.io/twitter/follow/FROZEN53300196?color=%231DA1F2&label=%20&logo=twitter&logoColor=%230e0&style=social" />
-    </a>
-    <img width="3%" />
-    <a href="https://www.hackerrank.com/kashafnaz510">
-    <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-hackerrank.png" width="3%"/>
-    </a>
-    <img width="3%" />
-    <a href="https://www.youtube.com/channel/UC3w9n1m1xe9DV1p9Q4GOTcQ/">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-youtube.png" width="3%"/>
-    </a>
-    <img width="3%" />
-    <a href="https://www.facebook.com/kashaf.naz.733/">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-facebook.png" width="3%"/>
-    </a>
-    <img width="3%" />
-    <a href="https://www.instagram.com/">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-instagram.png" width="3%"/>
-    </a>
+<a href="https://kashafs-portfolio.webflow.io/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=opsgenie&logoColor=ffffff"></a> 
+<a href="https://github.com/kashaf874/">
+<img src="https://img.shields.io/badge/Github-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
+<a href="https://www.youtube.com/channel/UC3w9n1m1xe9DV1p9Q4GOTcQ">
+<img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=ffffff"></a>
+<a href="https://www.linkedin.com/in/kashafnaz/">
+<img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=ffffff"></a>
+<a href="https://www.facebook.com/kashaf.naz.733/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=ffffff"></a>
+<a href="https://twitter.com/FROZEN53300196/">
+<img src="https://img.shields.io/badge/Twitter-08A0E9?style=flat-square&logo=Twitter&logoColor=ffffff"></a>
+<a href="https://www.instagram.com/UsamaSarwarOfficial/">
+<img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=ffffff"></a>
+<a href="https://www.google.com/search?q=usama+sarwar&oq=usama+sarwar&aqs=chrome..69i57j69i60l3j69i59j0i22i30l2.2577j0j1&sourceid=chrome&ie=UTF-8#lrd=0x39226921efdfec55:0xb750ccab89177cc9,1,,,">
+<img src="https://img.shields.io/badge/Reviews-211F1F?style=flat-square&logo=google&logoColor=ffffff"></a>
+<a href="https://ask.fm/usamasarwarofficial">
+<img src="https://img.shields.io/badge/ASK.fm-DB3552?style=flat-square&logo=askfm&logoColor=ffffff"></a>
+<a href="mailto:UsamaSarwarOfficial@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=ffffff"></a>
+<a href="https://m.me/UsamaSarwarOfficial/">
+<img src="https://img.shields.io/badge/Chat-1877F2?style=flat-square&logo=Messenger&logoColor=ffffff"></a>
+<a href="https://wa.me/923100007773?text=%23Github">
+<img src="https://img.shields.io/badge/Chat-25D366?style=flat-square&logo=WhatsApp&logoColor=ffffff"></a>
+<a href="https://www.buymeacoffee.com/UsamaSarwar">
+<img src="https://img.shields.io/badge/Support-Developer-784fff?style=flat-square&logo=buy-me-a-coffee&logoColor=ffffff"></a>
 </div>
- 
-![image ]({"https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"})(https://medium.com/@Kashaf_Naz)
 
 ## Most Used Langues
 
