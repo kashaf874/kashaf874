@@ -79,7 +79,7 @@
 ## GitHub Streak🔥
 
 
-![GitHub streak stats](https://github-readme-streak-stats.vercel.app/api?user=kashaf874)  
+![GitHub streak stats](https://github-readme-streak-stats.vercel.app/api?user=kashaf874&show_icons=true&theme=radical)  
 
 ## GitHub Stats
 
