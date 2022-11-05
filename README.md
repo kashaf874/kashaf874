@@ -47,7 +47,7 @@
     </a>
     <img width="3%" />
     <a href="https://twitter.com/FROZEN53300196">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-twitter.png" width="3%"/>
+        <img src="https://img.shields.io/twitter/follow/FROZEN53300196?color=%231DA1F2&logo=twitter&logoColor=%231da&style=social" />
     </a>
     <img width="3%" />
     <a href="https://www.hackerrank.com/kashafnaz510">
