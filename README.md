@@ -84,6 +84,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kashaf874&show_icons=true&theme=radical)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kashaf874&repo=github-readme-stats)](https://github.com/kashaf874/github-readme-stats)
+<a href = "https://github.com/kashaf874/github-readme-stats">
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=kashaf874&repo=github-readme-stats"/>
+ </a>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
