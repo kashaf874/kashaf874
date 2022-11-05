@@ -85,4 +85,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kashaf874&show_icons=true&theme=radical)
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kashaf874)](https://github.com/kashaf874/github-readme-stats)
