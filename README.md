@@ -47,7 +47,7 @@
     </a>
     <img width="3%" />
     <a href="https://twitter.com/FROZEN53300196">
-        <img src="https://img.shields.io/twitter/follow/FROZEN53300196?color=%231DA1F2&logo=twitter&logoColor=%231da&style=social" />
+        <img src="https://img.shields.io/twitter/follow/FROZEN53300196?color=%231DA1F2&label=%20&logo=twitter&logoColor=%231da&style=social" />
     </a>
     <img width="3%" />
     <a href="https://www.hackerrank.com/kashafnaz510">
