@@ -72,6 +72,7 @@
 ## Most Used Langues
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashaf874)](https://github.com/kashaf874/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashaf874)](https://github.com/kashaf874/github-readme-stats)
 
 
 
