@@ -51,9 +51,6 @@
 <img src="https://img.shields.io/badge/Twitter-08A0E9?style=flat-square&logo=Twitter&logoColor=ffffff"></a>
 <a href="https://www.instagram.com/kashafnaz_/">
 <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=ffffff"></a>
-
-<a href="https://ask.fm/kashafnaz510">
-<img src="https://img.shields.io/badge/ASK.fm-DB3552?style=flat-square&logo=askfm&logoColor=ffffff"></a>
 <a href="mailto:kashafnaz510@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=ffffff"></a>
 <a href="https://m.me/kashaf.naz.733/">
