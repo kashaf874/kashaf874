@@ -58,9 +58,7 @@
 
 </div>
 
-## Most Used Langues
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashaf874&show_icons=true&theme=radical)](https://github.com/kashaf874/github-readme-stats)
 
 
 
@@ -69,9 +67,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kashaf874&show_icons=true&theme=radical)  
 
-## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kashaf874&show_icons=true&theme=radical)
 
 ##
 
